@@ -7,5 +7,9 @@
 - ⚡ Fun fact: I feel more at home typing commands in the Linux terminal than using a TV remote.
 
 ### My Badges
-![Design Pioneer](https://badges.layer5.io/assets/badges/first-design/first-design.png)
-![AWS Certified Cloud Practitioner](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+
+<div align="center">
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Design Pioneer" width="150" />
+  &nbsp; &nbsp; <!-- هذه مسافة صغيرة بين الصورتين -->
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified" width="150" />
+</div>
