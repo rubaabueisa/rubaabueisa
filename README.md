@@ -8,3 +8,4 @@
 
 ### My Badges
 ![Design Pioneer](https://badges.layer5.io/assets/badges/first-design/first-design.png)
+![AWS Certified Cloud Practitioner](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
